@@ -15,7 +15,7 @@ from RSA.command import KeyManager as rsa_key           # клас з функц
 from RSA.command import Encryptor as rsa_encrypt        # клас з фукції для шифрування тексту, файлів, директорій (не дороблено)
 from RSA.command import Decryptor as rsa_decrypt        # клас з функції для розшифрування текству, файлів, директорій (не дороблено)
 
-__creator__ = 'Hacieda'
+__creator__ = 'Hexada'
 __version__ = '1.0'
 
 
