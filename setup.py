@@ -25,6 +25,7 @@ class CommandProcessor(cmd.Cmd):
         self.aes_key = aes_key()
         self.aes_encrypt = aes_encrypt()
         self.aes_decrypt = aes_decrypt()
+
         self.rsa_key = rsa_key()
         self.rsa_encrypt = rsa_encrypt()
         self.rsa_decrypt = rsa_decrypt()
