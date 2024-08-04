@@ -5,8 +5,6 @@
 
 _I admit that the program is not written in the best way, not with the best optimization, the code could have been written much simpler and smaller in my opinion, but I think this result at 15 years is not so bad, I quit working on this program on August 1, 2023_
 
-_The AES/command.py and RSA/command.py packages contain only functions within the class, which are called via setup.py as commands are written in the terminal_
-
 **Сommand structure**
 
 keys_status - _Outputs information about encryption keys_
